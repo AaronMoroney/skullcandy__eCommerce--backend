@@ -4,7 +4,8 @@ const products = [
     "_id": "107fb5b75607497b96722bda5b504926",
     "name": "Crusher ANC Personalized",
     "price": 499.00,
-    "imageUrl": [
+    "imageUrl" : "crusher1.png",
+    "imageUrlAlt": [
       "crusher1.png",
       "crusher2.webp",
       "crusher3.webp",
@@ -22,11 +23,11 @@ const products = [
   },
   {
     "colors": ["black", "pink", "yellow", "green"],
-    "_id": "107fb5b75607497b96722bda5b504926",
+    "_id": "415b7cacb65d43b2b5c1ff70f3393ad1",
     "name": "NEW! JIB™ TRUE",
     "price": 99.00,
-    "imageUrl": [
-      "jib1.webp",
+    "imageUrl" : "jib1.webp",
+    "imageUrlAlt": [
       "jib2.webp",
       "jib3.webp",
       "jib4.webp",
@@ -40,11 +41,11 @@ const products = [
   },
   {
     "colors": ["blue", "Black", "grey"],
-    "_id": "107fb5b75607497b96722bda5b504926",
+    "_id": "a557292fe5814ea2b15c6ef4bd73ed83",
     "name": "Indy Fuel True Wireless Earbud",
     "price": 299.00,
-    "imageUrl": [
-      "indy1.webp",
+    "imageUrl" : "indy1.webp",
+    "imageUrlAlt": [
       "indy2.webp",
       "indy3.webp",
       "indy4.webp",
