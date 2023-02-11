@@ -4,10 +4,9 @@ const products = [
     "_id": "107fb5b75607497b96722bda5b504926",
     "name": "Crusher ANC Personalized",
     "price": 499.00,
-    "imageUrl" : "crusher1.png",
+    "imageUrl" : "crusher2.webp",
     "imageUrlAlt": [
       "crusher1.png",
-      "crusher2.webp",
       "crusher3.webp",
       "crusher4.webp",
       "crusher5.webp",
