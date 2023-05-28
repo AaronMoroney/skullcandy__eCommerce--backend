@@ -2,11 +2,12 @@ const products = [
   {
     "colors": ["Red", "Black"],
     "_id": "107fb5b75607497b96722bda5b504926",
-    "name": "Crusher ANC Personalized",
+    "name": "Crusher ANC® - Personalized",
     "price": 499.00,
-    "imageUrl" : "crusher2.webp",
+    "imageUrl": "crusher2.webp",
     "imageUrlAlt": [
       "crusher1.png",
+      "crusher2.webp",
       "crusher3.webp",
       "crusher4.webp",
       "crusher5.webp",
@@ -25,14 +26,14 @@ const products = [
     "_id": "415b7cacb65d43b2b5c1ff70f3393ad1",
     "name": "NEW! JIB™ TRUE",
     "price": 99.00,
-    "imageUrl" : "jib1.webp",
+    "imageUrl": "jib1.webp",
     "imageUrlAlt": [
+      "jib1.webp",
       "jib2.webp",
       "jib3.webp",
       "jib4.webp",
       "jib5.webp",
     ],
-    
     "description": "Truly wireless. Perfectly simple. Sesh™ Evo makes it easier than ever to go truly wireless. With an impressive set of features that makes the price look even smaller, there’s no reason to hold out.",
     "altTxt": "Photo of black wireless headphones and case",
     "sizes": ["small"],
@@ -41,10 +42,11 @@ const products = [
   {
     "colors": ["blue", "Black", "grey"],
     "_id": "a557292fe5814ea2b15c6ef4bd73ed83",
-    "name": "Indy Fuel True Wireless Earbud",
+    "name": "Indy Fuel® - True Wireless Earbud",
     "price": 299.00,
-    "imageUrl" : "indy1.webp",
+    "imageUrl": "indy1.webp",
     "imageUrlAlt": [
+      "indy1.webp",
       "indy2.webp",
       "indy3.webp",
       "indy4.webp",
